@@ -1,0 +1,11 @@
+.{
+  "builds": [
+    {
+      "src": "install.sh",
+      "use": "@railway/static"
+    }
+  ],
+  "deploy": {
+    "install": "bash install.sh"
+  }
+}
