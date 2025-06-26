@@ -1,4 +1,4 @@
-.#!/bin/bash
+#!/bin/bash
 set -e
 
 curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
